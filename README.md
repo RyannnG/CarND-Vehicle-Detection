@@ -143,6 +143,8 @@ Ultimately I searched on 4 scales using YCrCb 3-channel HOG features , which pro
 
 Here's a [link to my video result](./project_video_out.mp4)
 
+(You may find the `project_video_out.mp4` video in the `forreport` folder)
+
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
 
 The code is in **8. Heat map** 
